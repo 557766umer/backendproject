@@ -1,0 +1,19 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "deploy"
+  ],
+  "author": "M.Umer",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1"
+  }
+}
